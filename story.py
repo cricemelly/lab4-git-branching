@@ -12,6 +12,7 @@ def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pull the sword from the stone and suddenly remember you are an undefeated hero.")
     print("You decide to go forward into the forest to find and defeat the villain.")
+    print("You find and defeat the villain. The forest dwellers erect a golden statue in your honor!")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
